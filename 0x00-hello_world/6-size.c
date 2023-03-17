@@ -1,10 +1,8 @@
 #include <stdio.h>
-
 /**
- * main - mais is a function
+ * main - A program that prints the size of various computer types
  * Return: 0 when successeful
  */
-
 int main(void)
 {
 	char a;
